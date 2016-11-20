@@ -1,0 +1,50 @@
+#!/usr/bin/env perl -w
+
+use LWP::Simple qw(get);
+
+my $url = 'http://classutil.unsw.edu.au/COMP_S1.html';
+my $html = get $url;
+
+my @lines = split(/\n/, $html);
+
+for (my $lineNo = 0; $lineNo < scalar(@lines); $lineNo++) {
+
+    # print "$lineNo\t$lines[$lineNo]\n";
+    if ($lines[$lineNo] =~ /([A-Z]{4}[0-9]{4})(?=&nbsp;&nbsp;)/) {
+        my $i = 3;
+        my $courseName = $1;
+
+
+        (my $courseDesc = $lines[$lineNo + 1]) =~ s/^.*?valign=center>([^<]+)<\/td>.*?$/$1/g;
+        $courseDesc =~ s/&amp;/&/g;
+        while () {
+            if ($lines[$lineNo + $i] =~ /<td(?: class="cucomp")?>(LAB|TUT|TLB)<\/td><td(?: class="cucomp")?>([^<]+)<\/td><td>\s*(\d+)<\/td><td>([^<]+)<\/td><td(?: class="cuwarn")?>([^<]+)<\/td><td>(\d+)\/(\d+)/g) {
+                my ($classType,$tutCode,$tutClass,$tutType,$tutStatus,$stuEnr,$stuCap) = ($1,$2,$3,$4,$5,$6,$7);
+                #print "$lines[$lineNo + 3]\n";
+                my $emptySpaces = $stuCap - $stuEnr;
+                printf "line: %-7s Course: %-12sDesc: %-35sClass: %-10sTutCode: %-10sClass: %-10sType: %-10sStatus: %-10sEmpty Spaces: %-10s\n",
+                $lineNo + $i, $courseName, $courseDesc, $classType, $tutCode, $tutClass, $tutType, $tutStatus, $emptySpaces;
+                #print "line $lineNo:\tCourse: $courseName\tDesc: $courseDesc\tClass: $classType\tTutCode: $tutCode\tClass: $tutClass\tType: $tutType\tStatus: $tutStatus\tEmpty Spaces: $emptySpaces\n";
+            } elsif ($lines[$lineNo + $i] =~ /<td colspan=6/) {
+                # DEBUG: NOTE
+                # print "Matched clospan one\n";
+                last;
+            } else {
+                if (($lineNo +$i) < scalar(@lines)) {
+                    # DEBUG: NOTE
+                    # my $currLine = $lineNo + $i;
+                    # print "$currLine: $lines[$lineNo +$i]\n";
+                } else {
+                    last;
+                }
+
+            }
+            $i += 3;
+        }
+        #print "Went outside loop\nSo, done with one course. Should match next one.\n";
+
+        #my ($classType,$tutCode,$tutClass,$tutType,$tutStatus,$stuEnr,$stuCap) = ($1,$2,$3,$4,$5,$6,$7);
+        #
+
+    }
+}

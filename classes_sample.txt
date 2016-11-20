@@ -1,0 +1,149 @@
+<td>Fri 09-11 (w2-7,8-13, PianoPhysU)</td> </tr>
+<td>Thu 13-15 (w2-7,8-13, PianoPhysU)</td> </tr>
+<td>Thu 15-17 (w2-7,8-13, PianoPhysU)</td> </tr>
+<td>Mon 09-11 (w2-7,8-13, PianoPhysU)</td> </tr>
+<td>Mon 11-13 (w2-7,8-13, PianoPhysU)</td> </tr>
+<td>Mon 13-15 (w2-7,8-13, PianoPhysU)</td> </tr>
+<td>Mon 15-17 (w2-7,8-13, PianoPhysU)</td> </tr>
+<td>Fri 09 (w1-7,9-13, CivEng G6); Fri 10-12 (w1-7,9-13, BrassME305)</td> </tr>
+<td>Fri 09 (w1-7,9-13, CivEng 102); Fri 10-12 (w1-7,9-13, StringsME3)</td> </tr>
+<td>Fri 12 (w1-7,9-13, CivEng G8); Fri 13-15 (w1-7,9-13, StringsME3)</td> </tr>
+<td>Thu 09 (w1-7,9-13, CivEng G6); Thu 10-12 (w1-7,9-13, BrassME305)</td> </tr>
+<td>Thu 09 (w1-7,9-13, CivEng 102); Thu 10-12 (w1-7,9-13, StringsME3)</td> </tr>
+<td>Thu 17 (w1-7,9-13, Ainswth201); Thu 18-20 (w1-7,9-13, BrassME305)</td> </tr>
+<td>Mon 15 (w1-7,9-13, Gold G01); Mon 16-18 (w1-7,9-13, BrassME305)</td> </tr>
+<td>Tue 09 (w1-7,9-13, CivEng G6); Tue 10-12 (w1-7,9-13, StringsME3)</td> </tr>
+<td>Tue 09 (w1-7,9-13, Quad G053); Tue 10-12 (w1-7,9-13, BrassME305)</td> </tr>
+<td>Tue 13 (w1-7,9-13, CivEng G6); Tue 14-16 (w1-7,9-13, BrassME305)</td> </tr>
+<td>Tue 13 (w1-7,9-13, Law 162); Tue 14-16 (w1-7,9-13, StringsME3)</td> </tr>
+<td>Tue 17 (w1-7,9-13, Quad G053); Tue 18-20 (w1-7,9-13, BrassME305)</td> </tr>
+<td>Wed 15 (w1-7,9-13, Quad G035); Wed 16-18 (w1-7,9-13, BrassME305)</td> </tr>
+<td>Wed 15 (w1-7,9-13, CivEng G6); Wed 16-18 (w1-7,9-13, StringsME3)</td> </tr>
+<td>Thu 13 (w2-7,8-13, Lib176B)</td> </tr>
+<td>Thu 14 (w2-7,8-13, Lib176B)</td> </tr>
+<td>Tue 10 (w2-7,8-13, CivEng G6)</td> </tr>
+<td>Tue 11 (w2-7,8-13, CivEng G6)</td> </tr>
+<td>Wed 16 (w2-7,8-13, Gold G05)</td> </tr>
+<td>Fri 09-11 (w2-7,8-13, TablaK17G7)</td> </tr>
+<td>Fri 09-11 (w2-7,8-13, BongoK17G7)</td> </tr>
+<td>Fri 11-13 (w2-7,8-13, TablaK17G7)</td> </tr>
+<td>Fri 11-13 (w2-7,8-13, BongoK17G7)</td> </tr>
+<td>Thu 14-16 (w2-7,8-13, BongoK17G7)</td> </tr>
+<td>Thu 14-16 (w2-7,8-13, TablaK17G7)</td> </tr>
+<td>Mon 12-14 (w2-7,8-13, BongoK17G7)</td> </tr>
+<td>Mon 12-14 (w2-7,8-13, TablaK17G7)</td> </tr>
+<td>Mon 14-16 (w2-7,8-13, BongoK17G7)</td> </tr>
+<td>Mon 14-16 (w2-7,8-13, TablaK17G7)</td> </tr>
+<td>Mon 18-20 (w2-7,8-13, TablaK17G7)</td> </tr>
+<td>Tue 09-11 (w2-7,8-13, BongoK17G7)</td> </tr>
+<td>Tue 09-11 (w2-7,8-13, TablaK17G7)</td> </tr>
+<td>Tue 11-13 (w2-7,8-13, BongoK17G7)</td> </tr>
+<td>Tue 16-18 (w2-7,8-13, Drum K17B8)</td> </tr>
+<td>Tue 18-20 (w2-7,8-13, TablaK17G7)</td> </tr>
+<td>Tue 18-20 (w2-7,8-13, BongoK17G7)</td> </tr>
+<td>Wed 09-11 (w2-7,8-13, Drum K17B8)</td> </tr>
+<td>Wed 09-11 (w2-7,8-13, TablaK17G7)</td> </tr>
+<td>Wed 11-13 (w2-7,8-13, Drum K17B8)</td> </tr>
+<td>Wed 15-17 (w2-7,8-13, BongoK17G7)</td> </tr>
+<td>Wed 15-17 (w2-7,8-13, TablaK17G7)</td> </tr>
+<td>Wed 18-20 (w2-7,8-13, BongoK17G7)</td> </tr>
+<td>Wed 18-20 (w2-7,8-13, TablaK17G7)</td> </tr>
+<td>Mon 16 (w2-7,8-13, Gold G07) Comb/w  <a href="COMP_S1.html#COMP9102T1">COMP9102</a>-PGRD</td> </tr>
+<td>Mon 17 (w2-7,8-13, Gold G05) Comb/w  <a href="COMP_S1.html#COMP9102T1">COMP9102</a>-PGRD</td> </tr>
+<td>Tue 16 (w2-7,8-13, Quad G041) Comb/w  <a href="COMP_S1.html#COMP9102T1">COMP9102</a>-PGRD</td> </tr>
+<td>Tue 17 (w2-7,8-13, Quad G041) Comb/w  <a href="COMP_S1.html#COMP9102T1">COMP9102</a>-PGRD</td> </tr>
+<td>Thu 13 (w2-7,8-13, Ainswth101) Comb/w  <a href="COMP_S1.html#COMP9201T1">COMP9201</a>-PGRD</td> </tr>
+<td>Thu 14 (w2-7,8-13, CivEng G6) Comb/w  <a href="COMP_S1.html#COMP9201T1">COMP9201</a>-PGRD</td> </tr>
+<td>Mon 12 (w2-7,8-13, CivEng 102) Comb/w  <a href="COMP_S1.html#COMP9201T1">COMP9201</a>-PGRD</td> </tr>
+<td>Mon 13 (w2-7,8-13, CivEng 102) Comb/w  <a href="COMP_S1.html#COMP9201T1">COMP9201</a>-PGRD</td> </tr>
+<td>Mon 16 (w2-7,8-13, CivEng 102) Comb/w  <a href="COMP_S1.html#COMP9201T1">COMP9201</a>-PGRD</td> </tr>
+<td>Mon 17 (w2-7,8-13, CivEng 102) Comb/w  <a href="COMP_S1.html#COMP9201T1">COMP9201</a>-PGRD</td> </tr>
+<td>Tue 12 (w2-7,8-13, CivEng 102) Comb/w  <a href="COMP_S1.html#COMP9201T1">COMP9201</a>-PGRD</td> </tr>
+<td>Tue 13 (w2-7,8-13, CivEng 102) Comb/w  <a href="COMP_S1.html#COMP9201T1">COMP9201</a>-PGRD</td> </tr>
+<td>Tue 14 (w2-7,8-13, CivEng 102) Comb/w  <a href="COMP_S1.html#COMP9201T1">COMP9201</a>-PGRD</td> </tr>
+<td>Tue 15 (w2-7,8-13, CivEng 102) Comb/w  <a href="COMP_S1.html#COMP9201T1">COMP9201</a>-PGRD</td> </tr>
+<td>Fri 13-15 (TablaK17G7) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Thu 10-12 (Drum K17B8) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Thu 12-14 (Drum K17B8) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Thu 14-16 (Drum K17B8) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Mon 12-14 (SitarME306) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Mon 12-14 (Kora ME307) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Mon 16-18 (BongoK17G7) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Mon 16-18 (TablaK17G7) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Tue 14-16 (BongoK17G7) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Tue 14-16 (TablaK17G7) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Wed 11-13 (SitarME306) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Wed 11-13 (FluteME303) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Wed 14-16 (Drum K17B8) Comb/w  <a href="COMP_S1.html#COMP9331T1">COMP9331</a>-PGRD</td> </tr>
+<td>Wed 12-15 (w2-7,8-13, TablaK17G7)</td> </tr>
+<td>Wed 12-15 (w2-7,8-13, BongoK17G7)</td> </tr>
+<td>Thu 16-18 (w2-7,8-13, LyreK17G12) Comb/w  <a href="COMP_S1.html#COMP9337T1">COMP9337</a>-PGRD</td> </tr>
+<td>Tue 16-18 (w2-7,8-13, LyreK17G12) Comb/w  <a href="COMP_S1.html#COMP9337T1">COMP9337</a>-PGRD</td> </tr>
+<td>Wed 16-18 (w2-7,8-13, LyreK17G12) Comb/w  <a href="COMP_S1.html#COMP9337T1">COMP9337</a>-PGRD</td> </tr>
+<td>Thu 12-14 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-UGRD</td> </tr>
+<td>Thu 12-14 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-PGRD</td> </tr>
+<td>Thu 14-16 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-UGRD</td> </tr>
+<td>Thu 14-16 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-PGRD</td> </tr>
+<td>Mon 14-16 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-UGRD</td> </tr>
+<td>Mon 14-16 (w2-PP7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-PGRD</td> </tr>
+<td>Mon 16-18 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-UGRD</td> </tr>
+<td>Mon 16-18 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-PGRD</td> </tr>
+<td>Tue 14-16 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-UGRD</td> </tr>
+<td>Tue 14-16 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-PGRD</td> </tr>
+<td>Tue 16-18 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-PGRD</td> </tr>
+<td>Tue 16-18 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-UGRD</td> </tr>
+<td>Tue 18-20 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-PGRD</td> </tr>
+<td>Tue 18-20 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-UGRD</td> </tr>
+<td>Wed 12-14 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-UGRD</td> </tr>
+<td>Wed 12-14 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-PGRD</td> </tr>
+<td>Wed 14-16 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-UGRD</td> </tr>
+<td>Wed 14-16 (w2-7,8-13, CybSK17G11) Comb/w  <a href="COMP_S1.html#COMP6441T1">COMP6441</a>-PGRD</td> </tr>
+<td>Thu 13 (w2-7,8-13, Mat  312) Comb/w  <a href="COMP_S1.html#COMP6752T1">COMP6752</a>-PGRD</td> </tr>
+<td>Thu 13 (w2-7,8-13, Mat  312) Comb/w  <a href="COMP_S1.html#COMP6752T1">COMP6752</a>-UGRD</td> </tr>
+<td>Mon 16 (w2-7,8-13, Mat  309) Comb/w  <a href="COMP_S1.html#COMP6752T1">COMP6752</a>-PGRD</td> </tr>
+<td>Mon 16 (w2-7,8-13, Mat  309) Comb/w  <a href="COMP_S1.html#COMP6752T1">COMP6752</a>-UGRD</td> </tr>
+<td>Thu 11 (w2-7,8-13, Gold G04); Thu 12-14 (w2-7,8-13, LyreK17G12) Comb/w  <a href="COMP_S1.html#COMP3211T1">COMP3211</a>-UGRD</td> </tr>
+<td>Mon 18 (w2-7,8-13, Gold G04); Mon 19-21 (w2-7,8-13, LyreK17G12) Comb/w  <a href="COMP_S1.html#COMP3211T1">COMP3211</a>-UGRD</td> </tr>
+<td>Tue 09 (w2-7,8-13, Gold G04); Tue 10-12 (w2-7,8-13, LyreK17G12) Comb/w  <a href="COMP_S1.html#COMP3211T1">COMP3211</a>-UGRD</td> </tr>
+<td>Wed 11 (w2-7,8-13, Gold G04); Wed 12-14 (w2-7,8-13, LyreK17G12) Comb/w  <a href="COMP_S1.html#COMP3211T1">COMP3211</a>-UGRD</td> </tr>
+<td>Wed 18 (w2-7,8-13, Gold G04); Wed 19-21 (w2-7,8-13, LyreK17G12) Comb/w  <a href="COMP_S1.html#COMP3211T1">COMP3211</a>-UGRD</td> </tr>
+<td>Mon 16-18 (w1-7,9-13, Kora ME307)</td> </tr>
+<td>Mon 16-18 (w1-7,9-13, FluteME303)</td> </tr>
+<td>Tue 16-18 (w1-7,9-13, BongoK17G7)</td> </tr>
+<td>Wed 16-18 (w1-7,9-13, Drum K17B8)</td> </tr>
+<td>Wed 18-20 (w1-7,9-13, Drum K17B8)</td> </tr>
+<td>Mon 13 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-PGRD</td> </tr>
+<td>Mon 13 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-UGRD</td> </tr>
+<td>Mon 14 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-UGRD</td> </tr>
+<td>Mon 14 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-PGRD</td> </tr>
+<td>Mon 15 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-PGRD</td> </tr>
+<td>Mon 15 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-UGRD</td> </tr>
+<td>Tue 12 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-PGRD</td> </tr>
+<td>Tue 12 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-UGRD</td> </tr>
+<td>Tue 13 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-PGRD</td> </tr>
+<td>Tue 13 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-UGRD</td> </tr>
+<td>Tue 14 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-PGRD</td> </tr>
+<td>Tue 14 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-UGRD</td> </tr>
+<td>Tue 15 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-UGRD</td> </tr>
+<td>Tue 15 (w4,6,8,10,12, Quad 1049) Comb/w  <a href="COMP_S1.html#COMP9319T1">COMP9319</a>-PGRD</td> </tr>
+<td>Mon 15-18 (w2-7,8-12, Mat  303) Comb/w  <a href="COMP_S1.html#COMP9322T1">COMP9322</a>-UGRD</td> </tr>
+<td>Mon 15-18 (w2-7,8-12, Mat  303) Comb/w  <a href="COMP_S1.html#COMP9322T1">COMP9322</a>-PGRD</td> </tr>
+<td>Wed 15-18 (w2-7,8-12, Mat  303) Comb/w  <a href="COMP_S1.html#COMP9322T1">COMP9322</a>-PGRD</td> </tr>
+<td>Wed 15-18 (w2-7,8-12, Mat  303) Comb/w  <a href="COMP_S1.html#COMP9322T1">COMP9322</a>-UGRD</td> </tr>
+<td>Thu 16-18 (w2-5, Kora ME307) Comb/w  <a href="COMP_S1.html#COMP9814T1">COMP9814</a></td> </tr>
+<td>Thu 16-18 (w2-5, BongoK17G7) Comb/w  <a href="COMP_S1.html#COMP9814T1">COMP9814</a></td> </tr>
+<td>Thu 16-18 (w2-5, TablaK17G7) Comb/w  <a href="COMP_S1.html#COMP9814T1">COMP9814</a></td> </tr>
+<td>Thu 16-18 (w2-5, SitarME306) Comb/w  <a href="COMP_S1.html#COMP9814T1">COMP9814</a></td> </tr>
+<td>Thu 16-18 (w2-5, Oboe ME304) Comb/w  <a href="COMP_S1.html#COMP9814T1">COMP9814</a></td> </tr>
+<td>Thu 16-18 (w2-5, FluteME303) Comb/w  <a href="COMP_S1.html#COMP9814T1">COMP9814</a></td> </tr>
+<td>Thu 16-18 (w2-5, StringsME3) Comb/w  <a href="COMP_S1.html#COMP9814T1">COMP9814</a></td> </tr>
+<td>Thu 16-18 (w2-5, BrassME305) Comb/w  <a href="COMP_S1.html#COMP9814T1">COMP9814</a></td> </tr>
+<td>Thu 16-18 (w2-5, Kora ME307) Comb/w  <a href="COMP_S1.html#COMP9414T1">COMP9414</a></td> </tr>
+<td>Thu 16-18 (w2-5, BongoK17G7) Comb/w  <a href="COMP_S1.html#COMP9414T1">COMP9414</a></td> </tr>
+<td>Thu 16-18 (w2-5, TablaK17G7) Comb/w  <a href="COMP_S1.html#COMP9414T1">COMP9414</a></td> </tr>
+<td>Thu 16-18 (w2-5, SitarME306) Comb/w  <a href="COMP_S1.html#COMP9414T1">COMP9414</a></td> </tr>
+<td>Thu 16-18 (w2-5, Oboe ME304) Comb/w  <a href="COMP_S1.html#COMP9414T1">COMP9414</a></td> </tr>
+<td>Thu 16-18 (w2-5, FluteME303) Comb/w  <a href="COMP_S1.html#COMP9414T1">COMP9414</a></td> </tr>
+<td>Thu 16-18 (w2-5, StringsME3) Comb/w  <a href="COMP_S1.html#COMP9414T1">COMP9414</a></td> </tr>
+<td>Thu 16-18 (w2-5, BrassME305) Comb/w  <a href="COMP_S1.html#COMP9414T1">COMP9414</a></td> </tr>
+<td>Thu 16-18 (w1-5, StringsME3)</td> </tr>
